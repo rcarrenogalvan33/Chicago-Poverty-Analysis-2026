@@ -1,0 +1,52 @@
+POLICY BRIEF: Geographic Clusters of Poverty Intensity in Chicago
+
+Date: April 13, 2026
+
+To: Chicago Social Service Leadership & Policy Stakeholders
+
+From: Rebe, Policy Analyst
+
+Subject: Utilizing Non-Linear GAM Diagnostics for Targeted Resource Allocation
+1. Executive Summary
+
+This analysis moves beyond simple city-wide averages to diagnose the specific demographic drivers of poverty across Chicago’s 77 community areas. By employing Generalized Additive Models (GAMs), we have identified that poverty does not increase linearly with demographic shifts; rather, it clusters in specific "High-Intensity Zones." This brief identifies the primary neighborhoods requiring immediate intervention based on model predictions.
+2. Diagnostic Findings: High vs. Low Intensity
+
+Our model analyzed the predicted percentage of households earning under $25,000. The results pinpoint a concentrated socioeconomic corridor on Chicago's South Side.
+High-Intensity Predicted Zones (Top 5 Intervention Areas)
+
+The model identifies these five neighborhoods as having the highest predicted poverty intensity based on current demographic trends:
+
+    Roseland: 5.88%
+
+    South Shore: 5.88%
+
+    Auburn Gresham: 5.84%
+
+    Washington Heights: 5.62%
+
+    Chatham: 5.61%
+
+Socioeconomic Stability Zones (Bottom 5 Benchmark Areas)
+
+Conversely, the model identified these areas as having the lowest predicted poverty intensity, serving as benchmarks for economic stability within the analysis:
+
+    West Elsdon: 1.36%
+
+    Archer Heights: 1.37%
+
+    Clearing: 1.40%
+
+    Dunning: 1.46%
+
+    McKinley Park: 1.64%
+
+3. Policy Recommendations
+
+Based on the Consortium framework and the "Data as a Diagnostic" approach, I recommend the following:
+
+    Targeted South Side Corridor Support: The clusters identified (Roseland through Chatham) represent a continuous geographic corridor. Intervention should not be siloed by neighborhood but should be a coordinated Regional Economic Recovery Plan focusing on the South Side.
+
+    Threshold-Based Funding: City agencies should utilize these GAM predictions to trigger "Tier 1" funding when a neighborhood’s socioeconomic markers suggest they are approaching the 5.5% intensity threshold.
+
+    Longitudinal Monitoring: This model should be updated annually. If a neighborhood like Roseland shows a poverty rate higher than the 5.88% prediction, it indicates "under-performance" relative to expectations, signaling a need for an immediate audit of local social service accessibility.
