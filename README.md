@@ -16,7 +16,7 @@ Key Technical Features:
 
 
     ![Chicago Poverty Map](Chicago_Poverty_Analysis_2026.png)
-
+ 
 How to Reproduce
 
 This project is designed for full reproducibility:
