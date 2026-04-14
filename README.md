@@ -15,7 +15,7 @@ Key Technical Features:
     Geospatial Visualization: Integrated sf and ggplot2 to create high-resolution maps identifying the Top 5 and Bottom 5 neighborhoods based on model predictions.
 
 
-    ![Chicago Poverty Map](Chicago_Poverty_Analysis_2026.png)
+    ![Chicago Poverty Map](Chicago_Poverty_Analysis_2026.PNG)
 
 How to Reproduce
 
